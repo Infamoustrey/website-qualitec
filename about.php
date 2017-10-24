@@ -50,7 +50,7 @@
                     <div class="clearfix"></div>
 
                     <p class="lead">Qualitec® Professional Services is a part of The Qualitec® Family of Independently Owned Companies, an integrated group of executive search firms providing comprehensive recruiting services to a broad range of industries.</p>
-                    <p class="lead">The Qualitec® Family of Companies has been a proud winner of The Houston 100, “The Top 100 Private Companies Having The Greatest Economic Impact on Houston” for 4 consecutive years equaling only a small number of other companies in this honor since the inception of the award. The firm has been in the top 10 permanent placements firms in Houston for the last 5 years, ranking 3rd in 2015.</p>
+                    <p class="lead">The Qualitec® Family of Companies has been a proud winner of The Houston 100, “The Top 100 Private Companies Having The Greatest Economic Impact on Houston” for 4 consecutive years equaling only a small number of other companies in this honor since the inception of the award. The firm has been in the top 10 permanent placements firms in Houston for the last 5 years, ranking 2nd in 2016.</p>
                 </div>
 
             </div>
